@@ -21,6 +21,7 @@
 - Spring Boot Extension Pack - https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-boot-dev-pack
 - Lombok Annotations Support for VS Code - https://marketplace.visualstudio.com/items?itemName=GabrielBB.vscode-lombok
 - Thunder Client - https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
+- MySQL - Database Client for vscode - https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2
 
 **5. Instalação e configuração do Docker Desktop**
 - Windows: https://www.docker.com/products/docker-desktop
