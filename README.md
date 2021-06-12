@@ -32,4 +32,4 @@
 
 **7. Criação de uma conta no Dockerhub: https://hub.docker.com/**
 
-**8. Java Tutorial VSCode: https://code.visualstudio.com/docs/java/java-tutorial
+**8. Java Tutorial VSCode: https://code.visualstudio.com/docs/java/java-tutorial**
