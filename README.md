@@ -31,3 +31,5 @@
 **6. Criação de uma conta no Github: https://github.com/**
 
 **7. Criação de uma conta no Dockerhub: https://hub.docker.com/**
+
+**8. Java Tutorial VSCode: https://code.visualstudio.com/docs/java/java-tutorial
